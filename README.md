@@ -4,7 +4,8 @@ I am Moh Zinnur Atthufail Addasui, currently doing internship at Apple Developer
 
 Apart from that I'm also:
 
-One of content creator of TeamUp Studio
+One of content creator of 
+you can read full article [TeamUp Studio](https://www.instagram.com/teamup.studio/)
 💬 Reach me ☕
 
 Linkedin : https://www.linkedin.com/in/helloail/
