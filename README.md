@@ -4,9 +4,9 @@ I am Moh Zinnur Atthufail Addasui, currently doing internship at Apple Developer
 
 Apart from that I'm also:
 
-iOS Engineer at Come Indonesia
 One of content creator of TeamUp Studio
 💬 Reach me ☕
+
 Linkedin : https://www.linkedin.com/in/helloail/
 
 Medium : https://medium.com/@helloail
