@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Moh Zinnur Atthufail Addasui, currently doing internship at Apple Developer Academy @ UC Surabaya, Indonesia, as an iOS Developer. I have been learning iOS development start from 2015. My current interest is making app that can help long term business by paying attention on the code & architecture quality.
+Currently focused on learning in swift, also exposing in all aspect language to build apple platform ( i.e : swiftui & uikit ), and version management with git. I do programming fulltime and as  a “long-life learner”, I learn and moving forward to understand ios development with the latest technologies.
 
 Apart from that I'm also:
 
