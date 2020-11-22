@@ -12,6 +12,4 @@ Linkedin : https://www.linkedin.com/in/helloail/
 
 Medium : https://medium.com/@helloail
 
-![image title](https://rushter.com/counter.svg)
-
 ![helloail github stats](https://github-readme-stats.vercel.app/api?username=helloail&show_icons=true&hide=["prs","issues","contribs"])
