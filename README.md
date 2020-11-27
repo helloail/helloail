@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Currently focused on learning in swift, also exposing in all aspect language to build apple platform ( i.e : swiftui & uikit ), and version management with git. I do programming fulltime and as  a “long-life learner”, I learn and moving forward to understand ios development with the latest technologies.
+T-Shaped IOS Developer that learned from apple as world leading technology company, also self-learning to expose all aspect language to build Apple platform with the latest technologies. Work with 5-6 cross functional team member and release 4 apps in a year
+
 
 Apart from that I'm also:
 
