@@ -6,7 +6,6 @@ T-Shaped IOS Developer that learned from apple as world leading technology compa
 Apart from that I'm also:
 
 One of content creator of 
-you can read full article [TeamUp Studio](https://www.instagram.com/teamup.studio/)
 💬 Reach me ☕
 
 Linkedin : https://www.linkedin.com/in/helloail/
